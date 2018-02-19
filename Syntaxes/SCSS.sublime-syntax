@@ -2,7 +2,7 @@
 ---
 name: SCSS
 file_extensions: [scss]
-scope: source.scss
+scope: source.css.scss
 
 
 variables:
